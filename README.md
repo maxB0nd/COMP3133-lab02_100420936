@@ -37,6 +37,8 @@ Also Provide your GitHub link in the comment
 
 ## Result
 Code:
+
 <img src="code.png">
 Result:
+
 <img src="output.png">

@@ -39,6 +39,7 @@ Also Provide your GitHub link in the comment
 Code:
 
 <img src="code.png">
+
 Result:
 
 <img src="output.png">
